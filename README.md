@@ -1,6 +1,6 @@
 #  Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name is <a href="https://gkassym.netlify.app" target="_blank">Shashank Vishwakarma</a> and I'm a passionate Full Stack Java and Python developer and machine learning enthusiast.
+My name is <a href="https://gkassym.netlify.app" target="_blank">Shashank Vishwakarma</a> and I'm a passionate Full Stack Java developer and machine learning enthusiast.
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankvishwakarma" alt="shashankvishwakarma" /></a> </p>
