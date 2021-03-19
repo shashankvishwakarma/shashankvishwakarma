@@ -6,8 +6,8 @@ My name is Shashank Vishwakarma and I am passionate Full Stack Java Developer an
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankvishwakarma" alt="shashankvishwakarma" /></a> </p>
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/shashank-vishwakarma)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/shashank1683)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/shashank-vishwakarma)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/shashank1683)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 [![Github](https://img.shields.io/github/followers/shashankvishwakarma?label=Follow&style=social)](https://github.com/shashankvishwakarma)
 
