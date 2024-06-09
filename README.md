@@ -1,51 +1,19 @@
-#  Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi 👋, I'm Shashank Vishwakarma</h1>
+<h3 align="center">I am passionate Full Stack Java Developer and Machine Learning enthusiast.</h3>
 
-My name is Shashank Vishwakarma and I am passionate Full Stack Java Developer and Machine Learning enthusiast.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankvishwakarma&label=Profile%20views&color=0e75b6&style=flat" alt="shashankvishwakarma" /> </p>
 
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankvishwakarma" alt="shashankvishwakarma" /></a> </p>
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shashank-vishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashank-vishwakarma" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shashank1683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shashank1683" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mail2shashank1683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mail2shashank1683" height="30" width="40" /></a>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/shashank-vishwakarma)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/shashank1683)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-[![Github](https://img.shields.io/github/followers/shashankvishwakarma?label=Follow&style=social)](https://github.com/shashankvishwakarma)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashankvishwakarma&show_icons=true&locale=en&layout=compact" alt="shashankvishwakarma" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashankvishwakarma&show_icons=true&locale=en" alt="shashankvishwakarma" /></p>
 
-<!--
-**shashankvishwakarma/shashankvishwakarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankvishwakarma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashankvishwakarma&show_icons=true&theme=dark&layout=compact&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankvishwakarma&layout=compact&theme=dark)](https://github.com/shashankvishwakarma/github-readme-stats)
-<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashankvishwakarma&" alt="shashankvishwakarma" /></p>
-[![Shashank's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shashankvishwakarma)](https://github.com/shashankvishwakarma/github-readme-stats)
--->
-
 
 <h1 align='center'><i>Stay awesome!</i></h1>
-
-
-
-
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashankvishwakarma&show_icons=true&locale=en&layout=compact" alt="shashankvishwakarma" /></p>
--->
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashankvishwakarma&show_icons=true&locale=en" alt="shashankvishwakarma" /></p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashankvishwakarma&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
--->
-
